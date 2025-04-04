@@ -1,0 +1,7 @@
+2025-04-04 08:20:09.319444 - Received CBT.V508.FILE351.PDS from FILE351.XMI 
+2025-04-04 08:20:09.320150 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:20:09.320315 - Found $$INFO.eml (message/rfc822) in CBT.V508.FILE351.PDS, moved to PDS/$$INFO
+2025-04-04 08:20:09.320446 - Found @FILE351.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/@FILE351
+2025-04-04 08:20:09.320572 - Found BATCH.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/BATCH
+2025-04-04 08:20:09.320692 - Found C.c (text/x-c) in CBT.V508.FILE351.PDS, moved to PDS/C
+2025-04-04 08:20:09.320812 - Found CICS.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/CICS
